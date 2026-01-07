@@ -4,6 +4,7 @@ import './App.css';
 import News from './components/News';
 
 
+
 function App() {
   const[category, setCategory]=useState("general");
   return (
